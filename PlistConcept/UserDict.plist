@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Countries</key>
+	<array>
+		<string>usa</string>
+		<string>india</string>
+		<string>america</string>
+		<string>ireland</string>
+	</array>
+	<key>balaji</key>
+	<dict>
+		<key>Place</key>
+		<string>India</string>
+		<key>phone number</key>
+		<integer>98765432</integer>
+		<key>occupation</key>
+		<string>sr ios </string>
+		<key>joining date </key>
+		<date>2019-08-28T08:56:11Z</date>
+	</dict>
+	<key>pramod</key>
+	<dict>
+		<key>place</key>
+		<string>ireland</string>
+		<key>phone number</key>
+		<integer>857554510</integer>
+		<key>occupation</key>
+		<string>ios Developer</string>
+		<key>joining date </key>
+		<date>2019-08-28T08:54:11Z</date>
+	</dict>
+</dict>
+</plist>
